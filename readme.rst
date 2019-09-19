@@ -50,10 +50,14 @@ I have dumped the sample Database Sql file in the root directory for your refere
 
 Sample API request for your reference:
 
+************
 http://localhost/restservices/api/books
+************
 http://localhost/restservices/api/bookbyname?Location=Darko
+************
 http://localhost/restservices/api/addbook
+************
 http://localhost/restservices/api/updatebook
+************
 http://localhost/restservices/api/deletebook
-
 ************
